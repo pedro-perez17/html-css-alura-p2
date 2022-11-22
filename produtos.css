@@ -116,3 +116,24 @@ form input, form textera {
     width: 50px
 }
 
+.checkbox {
+    margin: 20px 0;
+}
+
+p {
+    color: red;
+}
+
+form p {
+    color: blue;
+}
+
+.teste {
+    color: yellow;
+}
+
+p.teste {
+   color
+}
+
+
